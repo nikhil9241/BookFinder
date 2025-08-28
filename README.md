@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Book Finder
 
 A simple, student-friendly website to search for books by **title** or **author**, powered by the **Google Books API / Open Library API**.  
@@ -43,3 +44,7 @@ It allows you to quickly look up books, read descriptions, view cover images, an
 ```bash
 git clone https://github.com/your-username/book-finder.git
 cd book-finder
+=======
+# BookFinder
+this is a react app that display the book name when searched with the title and the data is coming from an api 
+>>>>>>> 825fcb74c964d0eb3d206e2d22cb2f514d07e53e
